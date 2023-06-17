@@ -1,3 +1,4 @@
+/*This problem is used to find the displacement when a/g is given  */
 package lab1;
 
 public class displacement {
